@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+nbrun/
+outputs/
+# keep uploaded / private data out of version control
+data/uploads/
+*.private.csv
+
+# local tooling
+.claude/

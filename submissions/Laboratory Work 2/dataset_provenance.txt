@@ -1,0 +1,14 @@
+Dataset: Online Retail II (UCI Machine Learning Repository, id 502)
+Creator: Daqing Chen (2019). DOI: https://doi.org/10.24432/C5CG6D
+Licence: CC BY 4.0
+Content: 1,067,371 transaction lines, UK online gift wholesaler, 01 Dec 2009 - 09 Dec 2011
+Copy used (UCI blocks scripted downloads from some networks): the identical data in the CC0 R package "onlineretail2"
+  https://raw.githubusercontent.com/allanvc/onlineretail2/master/data/onlineretail2.rda
+Size: 5,539,500 bytes | SHA-256: be2480b1fcb1fa123f90d731f63ab3cf44f6c97cba0a38eabee93759d411c6f7
+Row count verified: 1,067,371 x 8 columns (matches UCI)
+Downloaded and verified: 2026-11-11
+
+External data: England & Wales bank holidays from the Python "holidays" package (MIT licence).
+Assumptions (NOT in the data): supplier lead time 3 +/- 1 weeks, unit cost 60% of price, holding 25%/yr,
+ordering cost GBP 60/order, shortage cost = selling price per unit, stock on hand (simulated, seed 7).
+Candidates reviewed: Walmart M5 (Kaggle login + competition rules), UCI Online Retail I (one year only).
