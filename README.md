@@ -3,6 +3,8 @@
 **Lab Activity 2 · Session 2 · Yash Petkar · AS25DXB021**
 MAIB (Sept 2025 cohort) · S P Jain School of Global Management, Dubai · Lecturer: Dr. Sandip Kumar Roy
 
+**GitHub:** https://github.com/Yashpetkar7/AI-Inventory-Intelligence
+
 This project answers the Session II exercise *"AI Applications in Reorder Point & Inventory Management"* (slide 35):
 1. **Demand forecasting** with ML models, seasonality, price and external factors, new-data intake and continuous updating.
 2. **Dynamic safety stock** with the probabilistic formula `SS = Z·√(σ_D²·L + D̄²·σ_L²)` and Monte Carlo risk scenarios.
@@ -27,7 +29,7 @@ AI-Inventory-Intelligence/
 │   ├── lab2_session2_yashpetkar_AS25DXB021.ipynb   executed notebook (Colab-ready)
 │   ├── lab2_summary_yashpetkar_AS25DXB021.pdf      one-page summary
 │   ├── dataset_provenance.txt
-│   └── lab2_LINK.txt                               empty: paste the Colab link here
+│   └── lab2_LINK.txt                               GitHub repository link
 ├── build_notebook.py / make_pdf.py                 regenerate the submission files
 └── requirements.txt
 ```
